@@ -16,6 +16,8 @@ The dataset used for this dashboard includes the following key metrics:
 
 ## Dashboard Description
 
+![alt text](./dashboard.png)
+
 The HR Analytics Dashboard is divided into several sections, each providing specific insights into employee attrition:
 
 1. **Attrition by Education**: 
