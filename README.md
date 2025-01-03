@@ -76,10 +76,6 @@ This HR Analytics Dashboard provides valuable insights into employee attrition, 
 2. Open the Power BI file to explore the dashboard.
 3. Analyze the data and customize the dashboard as per your organizational needs.
 
-## Contact
-
-For any queries or further information, please contact [Your Name] at [Your Email].
-
 ---
 
 This README file aims to showcase my expertise in data analysis and visualization using Power BI. The detailed insights and findings presented in the dashboard demonstrate my ability to analyze complex datasets and provide actionable recommendations, making me a strong candidate for senior data analyst roles and career advancement opportunities.
